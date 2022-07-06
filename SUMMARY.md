@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Utopo链改用户手册](README.md)
+* [Utopo SDK用户手册](README.md)
 
 ## Guides
 
