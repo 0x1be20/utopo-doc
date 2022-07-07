@@ -8,7 +8,5 @@
 
 开发者在[官网](https://www.utopo.com/en-us/chaingerpublish)先通过邮箱注册开发者账号。
 
-## 开发者登录
-
 
 

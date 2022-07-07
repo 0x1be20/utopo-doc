@@ -1,4 +1,4 @@
-# Utopo SDK 用户手册
+# Utopo SDK用户手册
 
 [Utopo](https://www.utopo.com/en-us/chaingerpublish)是一个专注于帮助游戏接入区块链，获得游戏新能力的平台。开发者利用其提供的API快速实现游戏区块链改造。
 
@@ -16,4 +16,13 @@ Utopo SDK是一套SDK，方便开发者使用Utopo的能力。Utopo SDK分为服
 
 ## 安装Utopo SDK
 
-下载[utopo-sdk.zip](assets/utopo-sdk.zip)，导入至项目即可使用。
+可到[SDK下载页面](sdk/sdk-xia-zai.md)下载对应语言的版本安装使用。
+
+## 注册成为开发者
+
+在使用Utopo SDK前，需要在[官网](https://www.utopo.com/en-us/chaingerpublish)注册成为开发者。
+
+{% hint style="info" %}
+&#x20;环境分为开发环境以及正式环境，两个环境互相独立，因此可以先在测试环境进行开发测试，然后再在正式环境进行迁移。
+{% endhint %}
+
