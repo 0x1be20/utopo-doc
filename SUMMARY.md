@@ -23,6 +23,4 @@
 
 ## API Reference
 
-* [账户](api-reference/zhang-hu.md)
-* [项目](api-reference/xiang-mu.md)
-* [资产](api-reference/zi-chan.md)
+* [在线工具](api-reference/zai-xian-gong-ju.md)
